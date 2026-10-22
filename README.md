@@ -21,11 +21,15 @@
 ## Артефакты
 | Документ | Файл |
 |----------|------|
-| Техническое задание | [docs/01-technical-specification.pdf](docs/...) |
-| Курсовая работа | [docs/02-coursework.pdf](docs/...) |
-| Презентация ТЗ | [docs/03-presentation.pdf](docs/...) |
+| Техническое задание | [docs/technical_specification.pdf](docs/...) |
+| Курсовая работа | [docs/coursework.pdf](docs/...) |
+| Презентация ТЗ | [docs/presentation.pdf](docs/...) |
+| User Story + Acceptable criteria | [docs/us+ac.md](docs/...) |
+| User Flow | [docs/user_flow.pdf](docs/...) |
 | State Diagram | [diagrams/state-diagram.png](diagrams/...) |
 | Sequence Diagram | [diagrams/sequence-diagram.png](diagrams/...) |
+| Use Case Diagram | [diagrams/use_case.png](diagrams/...) |
+| BPMN | [diagrams/BPMN_create_event.png](diagrams/...) |
 
 
 ## Инструменты
