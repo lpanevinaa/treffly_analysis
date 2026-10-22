@@ -21,7 +21,7 @@
 ## Артефакты
 | Документ | Файл |
 |----------|------|
-| Техническое задание | [docs/technical_specification.pdf](docs/...) |
+| Техническое задание | [docs/technical_specification.pdf](docs/technical_specification.pdf) |
 | Курсовая работа | [docs/coursework.pdf](docs/...) |
 | Презентация ТЗ | [docs/presentation.pdf](docs/...) |
 | User Story + Acceptable criteria | [docs/us+ac.md](docs/...) |
