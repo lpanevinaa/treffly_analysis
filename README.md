@@ -10,9 +10,10 @@
 
 ## Что я сделала
 - Разработала техническое задание по ГОСТ 34.602-2020
-- Описала функциональные требования в виде US с AC, включая обработку ошибок и граничных случаев
+- Описала функциональные требования в виде User Stories с Acceptance Criteria, включая обработку ошибок и граничных случаев
+- Спроектировала архитектуру взаимодействия (Use Case Diagram)
+- Смоделировала пользовательские сценарии и логику переходов между экранами (Activity Diagram)
 - Смоделировала состояния системы (State Diagram)
-- Описала взаимодействие компонентов (Sequence Diagram)
 - Спроектировала сквозной бизнес-процесс создания мероприятия с учетом ошибок и отмены (BPMN 2.0)
 - Оформляла баги с шагами воспроизведения и ожидаемым результатом в Jira
 - Провела ручное тестирование интерфейса и логики работы приложения на Android
@@ -20,15 +21,15 @@
 
 ## Артефакты
 
-- [Техническое задание](docs/technical_specification.pdf) |
-| Курсовая работа | [docs/coursework.pdf](docs/...) |
-| Презентация ТЗ | [docs/presentation.pdf](docs/...) |
-| User Story + Acceptable criteria | [docs/us+ac.md](docs/...) |
-| User Flow | [docs/user_flow.pdf](docs/...) |
-| State Diagram | [diagrams/state-diagram.png](diagrams/...) |
-| Sequence Diagram | [diagrams/sequence-diagram.png](diagrams/...) |
-| Use Case Diagram | [diagrams/use_case.png](diagrams/...) |
-| BPMN | [diagrams/BPMN_create_event.png](diagrams/...) |
+- [Техническое задание](docs/technical_specification.pdf) 
+- [Курсовая работа](docs/coursework.pdf) 
+- [Презентация ТЗ](docs/presentation.pdf) 
+- [User Story + Acceptable criteria](docs/us+ac.md) 
+- [User Flow](docs/user_flow.pdf)
+- [Activity Diagram](diagrams/activity.png) 
+- [State Diagram](diagrams/statechart.png) 
+- [Use Case Diagram](diagrams/use_case.png) 
+- [BPMN](diagrams/BPMN_create_event.png) 
 
 
 ## Инструменты
@@ -38,7 +39,8 @@
 - Jira 
 
 ## Чему научилась
-- Сбор и формализация требований
-- Проектирование поведения системы через диаграммы состояний
-- Описание взаимодействия компонентов
-- Работа в команде по Agile/Scrum
+- Сбору и формализации требований, включая обработку негативных сценариев
+- Визуальному моделированию процессов и состояний
+- Написанию Acceptance Criteria для команды разработки и QA
+- Проведению ручного тестирования и оформлению баг-репортов
+-  Работе в команде по методологии Scrum
